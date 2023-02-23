@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "eec")(type "KiCad")(uri "${KIPRJMOD}/Custom Components/eec.pretty")(options "")(descr ""))
+  (lib (name "1-2834011-3")(type "KiCad")(uri "${KIPRJMOD}/Custom Components/1-2834011-3")(options "")(descr ""))
+)
