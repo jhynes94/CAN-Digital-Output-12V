@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 219-4MSTR
+D DIP Switches / SIP Switches SPST 4 switch sections
+K
+F https://www.ctscorp.com/wp-content/uploads/219.pdf
+$ENDCMP
+#
+#End Doc Library
