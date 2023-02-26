@@ -4,4 +4,5 @@
   (lib (name "VNL5050N3TR-E")(type "KiCad")(uri "${KIPRJMOD}/Custom Components/VNL5050N3TR-E/footprints.pretty")(options "")(descr ""))
   (lib (name "0367831201")(type "KiCad")(uri "${KIPRJMOD}/Custom Components/0367831201")(options "")(descr ""))
   (lib (name "219-4MSTR")(type "KiCad")(uri "${KIPRJMOD}/Custom Components/219-4MSTR")(options "")(descr ""))
+  (lib (name "RDS-10S-7229-A-SMT")(type "KiCad")(uri "${KIPRJMOD}/Custom Components/RDS-10S-7229-A-SMT")(options "")(descr ""))
 )
