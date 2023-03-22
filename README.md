@@ -23,7 +23,6 @@ https://github.com/autowp/arduino-mcp2515
 PEAK CAN usb device is used for interfacing and development. The software to run this is called <b>pcanview<b>
 
 
-
 ## Far Future items
 
 Future Tutorial for programming an alternative way:

@@ -23,7 +23,7 @@
 */
 
 // the setup function runs once when you press reset or power the board
-int LED_pin = 4;
+int LED_pin = 6;
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
   pinMode(LED_pin, OUTPUT);
